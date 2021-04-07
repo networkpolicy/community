@@ -13,6 +13,7 @@ This repository lists resources such as tutorials, examples, and documentation t
 
  * [Tutorial](https://github.com/networkpolicy/tutorial)
  * [NetworkPolicy Editor](https://editor.cilium.io/)
+ * [From "War Games" to Network Policies](https://cilium.io/blog/2021/04/06/war-games-network-policy) - why network policies are necessary for cloud native network security
 
 ## Threat Models
 
